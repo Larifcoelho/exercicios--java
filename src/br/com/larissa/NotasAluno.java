@@ -1,6 +1,8 @@
+package br.com.larissa;
+
 import java.util.Scanner;
 
- class notasAluno {
+ class NotasAluno {
  public static void main(String[] args ) {
 
   Scanner scanner = new Scanner(System.in);

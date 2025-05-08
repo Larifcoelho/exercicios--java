@@ -1,3 +1,4 @@
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -27,3 +28,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+git rm -r --cached .
+git add .
+git commit -m "Atualiza .gitignore para ignorar arquivos desnecessários"
+git push

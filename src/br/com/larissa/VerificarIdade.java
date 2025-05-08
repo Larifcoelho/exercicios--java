@@ -1,3 +1,5 @@
+package br.com.larissa;
+
 import java.util.Scanner;
 
 public class VerificarIdade {
